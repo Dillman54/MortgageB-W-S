@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "semiotic-bloom-460119-m3",
+  "private_key_id": "fba01dd1dea842af891013fb19304ee64aaae567",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOwlif+Q+9zXfd\nnZviZgZ2WTgI3DXm/fu4qudDnHi6CNSR4tIjMZu8u08ja4YTb58ZJ18tLnxhn2PY\njWW2yCVT7+hNxISmr0WXI2azAb6ty81E/1yizxzo3ZUjDVKwbe1rIHEbbhdVUiQT\nAbR3JU3dvc3tZ5M5jXIqvSXwEw6R63tMjYkvfdhTF9CgMW2WYjwZelnOWczSNpKw\nDrSpxiBxR5hRm4f++MRgBPPW40tHN6n0KEOx51TFRc1YkUucpnlPRt/oYz7gE/7c\n40IGIhDLaNtt5TXwQ6lTiS99w3Ca5ciUdRY06HOMCd0wRoSI7zRN+t8qZMLyZqym\nHZMlshpZAgMBAAECggEACwc+F5epqZ5qX1gcdtCpqum1XcZJMGn/DD7pblIhSmMA\nMPaKmN/425yYwF3oMo8zSvHZAh2cUCS3/FaxGd/GcJoM/QuXZmtWPeqLJs8tWYh+\nXsjJgHxQTBzNlfy28BGHpr196vr4pE9o/IPhxAfUWxiDAb+9kEX61KFu2EWxSEJ7\nr6aGgDDvIGwxsQoqhkkW4iRUOAYz9sSMCwuHpiQApsyfF/uUzCFD/Wgce0LA5Eev\nLRwru80X+LauF7coxXZPkVo21Pz/HB+BmLl4EQh8pMwAyzyWRqLf1cvY4whMru9v\nUvCAa2G86hHbpcOq76FZ81N0Cd/32oYgo8Wm8A9KFQKBgQDnWe1hHqCXNdYhnbxA\ngWISstUDl3rF4YSD7cF1TAYzhZe6D5UUEj5F36aVEFSbTMvYqTNssOEi2zwoaxe8\nxCCQNFqRFIpfL4C4BhtT2urb6pk3f8Q3iIrN5KH4P7axQ/H+Ioi7Yxb59TyLNvfl\n7pxBWnMO20sHTvBwHRiF82fEqwKBgQDkyawuHb72Epb+CS5kJR2pl22g4vzoQexE\nitJu0j2uwoi+subhgNOUftkFKMuOxsxUkRa1qQ8Y6Ci73p1I4v1NrfFx9vzGg1hY\nIS5yu8l0AlQ/Vq2vyOqY1thGYtkje0R5pBna9l/quXuKADFAHBjhkdszMvQ1XYy1\nCUEykQ/1CwKBgCj2j0Vm+uBLNAL3vuFdB1RwPa9JHv/yklgZvOtb7q0otljHcYoA\nQO52TzSNk617x4wxSV2xY+ucDebKL4XI5EskOfT+QhHgg1YSHryWQod13nMpOEDs\n+EbEeLlP7rUsZqiszLEBNoxDk9jCftpDiX842K6EvaAppgDz5eex1WnJAoGAJHsL\n22ae1nnsXaF1Jj7M1gfxUSAgl6A7XkqMd2NKtp0KVO4N5pM2KY14aVwx6RhF6I4i\nAuFsKNqL9Djw93hKT6KWx0dM0xKKebMAxwaufrMIX/kgRNFSpwBLCB4m5YN4TbUe\n8k0qyjC9RCn3sHNKfF1XiHhtfDzofM12+esrkjUCgYEAieO8qLtqqVom89fXfQGp\nSbCk6Zux2C4X3i1X8HwbjH00Zhb4zKfS1ubXKoMzsbcDDbKJT9YNTExy6TQ14YHL\nKlNz4rvg7L+408GLZmRTtKueTzTNlnF53zoar/2M61PuqZcIOCR2iHxbBXp74cdf\nVuvYHp9SqKhySrQ6TtXc000=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sreb-scraper-bot@semiotic-bloom-460119-m3.iam.gserviceaccount.com",
+  "client_id": "112083312731296237264",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sreb-scraper-bot%40semiotic-bloom-460119-m3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
